@@ -17,7 +17,7 @@ a {
 }
 
 header {
-  padding-bottom: 20px;
+  margin-bottom: 20px;
   background-color: rgb(244,79,79);
   text-align: center;
 }
@@ -66,10 +66,9 @@ footer {
 
 a {
   color:rgb(255,255,255);
-
 }
 
-a:link {
+a:visited {
   color:rgb(193,234,251);
 }
 
